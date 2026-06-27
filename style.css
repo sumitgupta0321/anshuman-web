@@ -1538,6 +1538,17 @@ ul {
     text-align: center;
   }
 
+  .footer-brand {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .footer-logo {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .footer-links h4::after,
   .footer-contact h4::after {
     left: 50%;
